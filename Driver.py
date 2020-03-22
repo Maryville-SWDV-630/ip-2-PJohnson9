@@ -1,3 +1,8 @@
+# Patrick Johnson         3/22/2020 #
+# SWDV 630 3W 20/SP2         Week 2 #
+#####################################
+# Driver application for Checking Account class
+
 from CheckingAccount import *
 
 johnAddress = Address("123 Main Street", "Anytown", "MO", "63100")

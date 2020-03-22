@@ -1,3 +1,8 @@
+# Patrick Johnson         3/22/2020 #
+# SWDV 630 3W 20/SP2         Week 2 #
+#####################################
+# Checking Account class
+
 from datetime import datetime
 
 class Address:
